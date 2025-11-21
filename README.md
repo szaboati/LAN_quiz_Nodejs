@@ -1,6 +1,6 @@
 ## Hordozható Quiz rendszer 
 1) Telepítsd a Node.js LTS verziót. (node -v)
-2) Másold a teljes 'quiz' mappát a gépre, zip file mindent tartalmaz, klónozhatod is.
+2) Másold a teljes 'quiz' mappát a gépre, a zip file mindent tartalmaz, klónozhatod is.
 3) Nyisd parancssort a mappában, futtasd:
    - npm init -y 
    - npm install express sqlite3 body-parser parancsokat
