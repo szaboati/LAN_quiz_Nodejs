@@ -18,8 +18,8 @@ Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás
 
 ## 1. quiz/
 2. ├── server.js
-├── init-db.js
-├── current-quiz.txt          # az aktuálisan kiválasztott JSON fájl neve (tartósításhoz)
+2. ├── init-db.js
+2. ├── current-quiz.txt          # az aktuálisan kiválasztott JSON fájl neve (tartósításhoz)
 ├── questions-github.json      # kérdések (példa)
 ├── questions-python.json      # kérdések (példa)
 ├── questions-html.json        # kérdések (példa)
