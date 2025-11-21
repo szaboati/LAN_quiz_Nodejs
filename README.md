@@ -1,5 +1,5 @@
 ## Hordozható Quiz rendszer 
-1) Telepítsd a Node.js LTS verziót.
+1) Telepítsd a Node.js LTS verziót. (node -v)
 2) Másold a teljes 'quiz' mappát a gépre.
 3) Nyisd parancssort a mappában, futtasd:
    npm init -y
