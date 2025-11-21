@@ -29,6 +29,6 @@ Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás
 - │   ├── index.html           # diák felület
 - │   ├── ertekel.html         # tanári eredmény nézet
 - │   └── script.js            # közös kliens logika
-├── inditas.bat              # Windows indító fájl
+-- ├── inditas.bat              # Windows indító fájl
 └── README.txt               # rövid használati útmutató
 
