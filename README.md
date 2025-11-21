@@ -1,5 +1,4 @@
-## Hordozható Quiz rendszer (Tanári jelszó: bossboss)
-
+## Hordozható Quiz rendszer 
 1) Telepítsd a Node.js LTS verziót.
 2) Másold a teljes 'quiz' mappát a gépre.
 3) Nyisd parancssort a mappában, futtasd:
