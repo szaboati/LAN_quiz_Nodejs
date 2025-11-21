@@ -32,4 +32,22 @@ Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás
 - ├── ertekel.html         # tanári eredmény nézet
 - └── script.js            # közös kliens logika
 
+# Projektstruktúra
 
+```
+quiz/
+├── server.js                   # Node.js szerver
+├── init-db.js                  # Adatbázis inicializálása
+├── current-quiz.txt            # Az aktuális kérdéssor neve (tartósításhoz)
+├── questions-github.json       # Példakérdések (GitHub témában)
+├── questions-python.json       # Példakérdések (Python témában)
+├── questions-html.json         # Példakérdések (HTML témában)
+├── questions-arduino.json      # Példakérdések (Arduino témában)
+├── public/
+│   ├── teacher.html            # Tanári menü (jelszavas)
+│   ├── index.html              # Diák felület
+│   ├── ertekel.html            # Tanári eredmény nézet
+│   └── script.js               # Közös kliens logika
+├── inditas.bat                 # Windows indító fájl
+└── README.txt                  # Rövid használati útmutató
+```
