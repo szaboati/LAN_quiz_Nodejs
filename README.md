@@ -11,7 +11,7 @@
    - Itt választható a quiz (GitHub/Python/HTML/Arduino...)
 6) Diák felület: http://192.168.1.100:3000
 7) Eredmények (alternatíva): http://192.168.1.100:3000/ertekel.html
-8) Távelérés tartományitűzfal kikapcsolva, http://10.30.10.20
+8) Táveléréshez a tartományitűzfal kikapcsolva, http://192.168.1.100:3000
 
 Kérdésfájl csere: a gyökérben lévő questions-*.json fájlokkal.
 Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás után is megmarad.
