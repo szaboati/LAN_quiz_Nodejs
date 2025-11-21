@@ -16,7 +16,7 @@
 Kérdésfájl csere: a gyökérben lévő questions-*.json fájlokkal.
 Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás után is megmarad.
 
-## quiz/
+# quiz/
 - ├── server.js
 - ├── init-db.js
 - ├── current-quiz.txt          # az aktuálisan kiválasztott JSON fájl neve (tartósításhoz)
@@ -24,7 +24,7 @@ Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás
 - ├── questions-python.json      # kérdések (példa)
 - ├── questions-html.json        # kérdések (példa)
 - ├── questions-arduino.json     # kérdések (példa)
-- ├──  public/
+## - ├──  public/
 *    ├── teacher.html         # tanári menü (jelszavas)
 *    ├── index.html           # diák felület
 *    ├── ertekel.html         # tanári eredmény nézet
