@@ -25,10 +25,10 @@ Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás
 - ├── questions-html.json        # kérdések (példa)
 - ├── questions-arduino.json     # kérdések (példa)
  - public/
-*    ├── teacher.html         # tanári menü (jelszavas)
-*    ├── index.html           # diák felület
-*    ├── ertekel.html         # tanári eredmény nézet
-*   └── script.js            # közös kliens logika
+- ├── teacher.html         # tanári menü (jelszavas)
+- ├── index.html           # diák felület
+- ├── ertekel.html         # tanári eredmény nézet
+- └── script.js            # közös kliens logika
 ├── inditas.bat              # Windows indító fájl
 └── README.txt               # rövid használati útmutató
 
