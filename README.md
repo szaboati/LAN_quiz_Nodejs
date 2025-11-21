@@ -24,7 +24,7 @@ Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás
 - ├── questions-python.json      # kérdések (példa)
 - ├── questions-html.json        # kérdések (példa)
 - ├── questions-arduino.json     # kérdések (példa)
- public/
+ - public/
 *    ├── teacher.html         # tanári menü (jelszavas)
 *    ├── index.html           # diák felület
 *    ├── ertekel.html         # tanári eredmény nézet
