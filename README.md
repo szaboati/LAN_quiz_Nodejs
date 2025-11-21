@@ -2,8 +2,8 @@
 1) Telepítsd a Node.js LTS verziót. (node -v)
 2) Másold a teljes 'quiz' mappát a gépre.
 3) Nyisd parancssort a mappában, futtasd:
-   npm init -y
-   npm install express sqlite3 body-parser
+   npm init -y és
+   npm install express sqlite3 body-parser parancsokat
 4) Indítás:
    inditas.bat
 5) Tanári menü: http://192.168.1.100:3000/teacher.html
