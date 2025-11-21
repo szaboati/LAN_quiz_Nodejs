@@ -19,8 +19,8 @@ Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás
 quiz/
 ├── server.js
 ├── init-db.js
-├── current-quiz.txt           # az aktuálisan kiválasztott JSON fájl neve (tartósításhoz)
-├── questions-github.json      # kérdések (példa)
+├── current-quiz.txt           // az aktuálisan kiválasztott JSON fájl neve (tartósításhoz)
+├── questions-github.json      // kérdések (példa)
 ├── questions-python.json      # kérdések (példa)
 ├── questions-html.json        # kérdések (példa)
 ├── questions-arduino.json     # kérdések (példa)
