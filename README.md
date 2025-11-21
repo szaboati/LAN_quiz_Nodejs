@@ -17,7 +17,7 @@ Kérdésfájl csere: a gyökérben lévő questions-*.json fájlokkal.
 Az aktuális választás a current-quiz.txt-ben tárolódik, így újraindítás után is megmarad.
 
 ## quiz/
--item1 ├── server.js
+- item1 ├── server.js
 ├── init-db.js
 ├── current-quiz.txt          # az aktuálisan kiválasztott JSON fájl neve (tartósításhoz)
 ├── questions-github.json      # kérdések (példa)
